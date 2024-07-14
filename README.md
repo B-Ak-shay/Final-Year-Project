@@ -41,3 +41,7 @@ WAVV (Wavelet-Based Variance)
 
         The machine learning-based algorithm shows superior performance across multiple color cast levels compared to traditional techniques. The results highlight the importance of robust color constancy algorithms in mitigating color cast distortions.
 
+
+**IEEE Explorer**
+https://ieeexplore.ieee.org/document/10581053
+
